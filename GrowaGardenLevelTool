@@ -1,1 +1,24 @@
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/lvbxH1wYtf/0))()
+-- Load the remote script
+local success, err = pcall(function()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/RsogMQjh1s/0"))()
+end)
+
+if not success then
+    warn("Failed to load remote script: " .. tostring(err))
+end
+
+
+
+-- Load the remote script
+local success, err = pcall(function()
+    loadstring(game:HttpGet("https://cdn.sourceb.in/bins/RsogMQjh1s/0"))()
+end)
+
+if not success then
+    warn("Failed to load remote script: " .. tostring(err))
+end
+
+-- Your GUI + Level Up Tool script starts below
+-- (Paste your entire GUI code exactly as it is here...)
+
+-- [PASTE THE FULL GUI SCRIPT HERE, WHICH YOU PROVIDED ABOVE]
